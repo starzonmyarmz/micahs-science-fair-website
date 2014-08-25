@@ -1,0 +1,19 @@
+body {
+  background-color: orange;
+  margin: 100px;
+}
+
+img {
+  background: white;
+  border: 3px solid black;
+  box-shadow: -7px 7px 7px white;
+  margin: 20px 0;
+  padding: 5px;
+  width: 400px;
+}
+
+h1 {
+  font-size: 78px;
+  text-decoration: underline;
+}
+
